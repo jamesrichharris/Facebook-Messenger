@@ -466,11 +466,14 @@ main {
     border: 0px;
     font-size: 17px;
   }
-  .compose-dock img {
-    width: 20px;
-    position: absolute;
+  .compose-dock .dock {
+ position: absolute;
     right: 25px;
     top: 20px;
+  }
+  .compose-dock img {
+    width: 20px;
+    margin-left:10px;
     opacity: 0.3;
     &:hover {
       opacity: 0.5;
