@@ -465,7 +465,7 @@ main {
     width: 100%;
     border: 0px;
     font-size: 17px;
-    padding-right: 70px;
+    padding-right: 80px;
   }
   .compose-dock .dock {
  position: absolute;
@@ -474,8 +474,8 @@ main {
   }
   .compose-dock img {
     width: 20px;
-    margin-left:10px;
-    opacity: 0.3;
+    margin-left:12px;
+    opacity: 0.2;
     &:hover {
       opacity: 0.5;
     }
